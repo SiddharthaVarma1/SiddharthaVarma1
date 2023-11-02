@@ -1,3 +1,4 @@
+[![MasterHead](https://thecloudlegion.com/images/devops.gif)](https://SiddharthaVarma1.io)
 <h1 align="center">Hi 👋, I'm Siddhartha Varma</h1>
 <h3 align="center">Experienced DevOps Engineer orchestrating seamless collaboration between development and operations for optimized software delivery</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2e116b895fea4fb291492891945129aef81e109bfd07f3a8e116a0625d936290/68747470733a2f2f637574742e6c792f68305937766566">
